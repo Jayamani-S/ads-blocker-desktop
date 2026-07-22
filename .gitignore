@@ -1,9 +1,0 @@
-npm-debug.log*
-*.log
-.DS_Store
-coverage/
-.env
-.env.local
-*.tgz
-dist/
-dist/
