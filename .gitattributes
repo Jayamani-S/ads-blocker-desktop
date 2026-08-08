@@ -1,0 +1,10 @@
+# Language detection rules
+src/**/*.ts linguist-detectable
+node_modules/* linguist-vendored
+*.ico binary  
+*.woff2 binary
+docs/**/*.html linguist-vendored
+
+*.bat text eol=crlf
+go.sum linguist-generated
+# eof 88a6b64f
